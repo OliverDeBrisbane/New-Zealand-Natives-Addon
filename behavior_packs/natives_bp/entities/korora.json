@@ -94,7 +94,8 @@
             "priority":4,
             "speed_multiplier":1.25,
             "items":[
-               "wheat"
+               "fish"
+               "salmon"
             ]
          },
          "minecraft:behavior.follow_parent":{
