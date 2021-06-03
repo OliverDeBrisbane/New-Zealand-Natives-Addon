@@ -75,7 +75,9 @@
             },
             "minecraft:breedable":{
                "require_tame":false,
-               "breeds_with":{
+               "breeds_with":
+               "fish"
+               "salmon"
                   "mate_type":"ccl:hoiho",
                   "baby_type":"ccl:hoiho",
                   "breed_event":{
